@@ -1,4 +1,4 @@
-## "npm install" to install the dependices
+### "npm install" to install the dependices
 
 In the project directory, you can run:
 
