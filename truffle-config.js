@@ -1,6 +1,6 @@
 
 module.exports = {
-
+  contracts_build_directory:"./public/contracts",
   networks: {
     development: {
      host: "127.0.0.1",     // Localhost (default: none)
@@ -16,3 +16,4 @@ module.exports = {
     }
   },
 };
+
